@@ -18,9 +18,11 @@ Charge Spell
 - Spell: 			charge.lua 			[x1]
 - Talkaction: 		getcharges.lua 		[x1]
 
-_________________________________________
+________________________________________________
 
 
 Extra Experience Armor
 ======================
 - Movement: 		extraexpitem.lua  	 [x2]
+
+________________________________________________
