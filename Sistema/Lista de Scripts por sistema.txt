@@ -1,0 +1,26 @@
+Dantarrix Script System 
+
+============================
+
+Lista de scripts por sistema
+
+============================
+
+Pondré el nombre de cada sistema y hacia abajo la
+lista de scripts, señaladas de la siguiente forma:
+
+- Tipo: nombre.lua [cantidad de registros en xml]
+
+Charge Spell
+============
+- Creaturescript: 	chargesattack.lua 	[x1]
+- Creaturescript: 	chargeslose.lua 	[x1]
+- Spell: 			charge.lua 			[x1]
+- Talkaction: 		getcharges.lua 		[x1]
+
+_________________________________________
+
+
+Extra Experience Armor
+======================
+- Movement: 		extraexpitem.lua  	 [x2]
