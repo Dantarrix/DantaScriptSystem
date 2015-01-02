@@ -1,7 +1,9 @@
-DantaScriptSystem
+DantaScriptSystem || Versión Actual: 2.0.1
 =================
 
 Sistema de scripts lua para Tibia
+
+Proyecto: http://www.blacktibia.org/t37861-dantarrix-script-system-v2-0
 
 =================
 
