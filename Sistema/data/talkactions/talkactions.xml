@@ -1,1 +1,6 @@
+<!-- Basic Scripts -->
+
 <talkaction log="yes" words="/danta" event="script" value="dantatalk.lua"/>
+
+<!-- Charge Spell -->
+<talkaction log="yes" words="/getcharges;!getcharges" event="script" value="getcharges.lua"/>

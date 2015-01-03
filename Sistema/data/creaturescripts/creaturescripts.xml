@@ -1,0 +1,5 @@
+<!-- Charge Spell -->
+
+
+<event type="statschange" name="chargesdeal" event="script" value="chargesattack.lua"/>
+<event type="statschange" name="chargeslose" event="script" value="chargeslose.lua"/>

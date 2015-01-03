@@ -1,3 +1,5 @@
+<!-- Basic Scripts -->
+
 <globalevent name="dantastart" type="startup" event="script" value="dantasystem.lua"/>
 <globalevent name="dantaquit" type="shutdown" event="script" value="dantasystem.lua"/>
 <globalevent name="DantaPublicity" interval="7200" event="script" value="dantapublicity.lua"/>

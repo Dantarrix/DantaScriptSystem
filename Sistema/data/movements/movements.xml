@@ -1,0 +1,4 @@
+<!-- Extra Exp Armor -->
+
+<movevent type="Equip" itemid="2467" slot="armor" event="script" value="extraexpitem.lua"/>
+<movevent type="DeEquip" itemid="2467" slot="armor" event="script" value="extraexpitem.lua"/>

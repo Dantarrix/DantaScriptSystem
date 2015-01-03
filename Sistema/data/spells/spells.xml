@@ -1,0 +1,6 @@
+<!-- Charge Spell -->
+
+<instant name="Charge Attack" words="charge" lvl="1" mana="2" aggressive="0" selftarget="1" exhaustion="1000" needlearn="0" event="script" value="charge.lua">
+    <vocation id="3"/>
+    <vocation id="7"/>
+</instant>

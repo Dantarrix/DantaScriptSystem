@@ -17,6 +17,10 @@ Charge Spell
 - Creaturescript: 	chargeslose.lua 	[x1]
 - Spell: 			charge.lua 			[x1]
 - Talkaction: 		getcharges.lua 		[x1]
+- Registros en login.lua				[x2]:
+
+		registerCreatureEvent(cid, "chargesdeal")
+		registerCreatureEvent(cid,'chargeslose')
 
 ________________________________________________
 
