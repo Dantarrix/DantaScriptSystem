@@ -1,4 +1,4 @@
-DantaScriptSystem || Versión Actual: 2.0.1
+DantaScriptSystem || Versión Actual: 2.2.0
 =================
 
 Sistema de scripts lua para Tibia
